@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "STM32F103C8Tx_HAL",
+			"path": "."
+		},
+		{
+			"name": "STM32F103C8Tx_HAL_ARMCC",
+			"path": "MDK-ARM"
+		},
+		{
+			"name": "STM32F103C8Tx_HAL_GCC",
+			"path": "Makefile"
+		}
+	]
+}

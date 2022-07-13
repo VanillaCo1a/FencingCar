@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "STM32F412VGTx_HAL",
+			"path": "."
+		},
+		{
+			"name": "STM32F412VGTx_HAL_ARMCC",
+			"path": "MDK-ARM"
+		},
+		{
+			"name": "STM32F412VGTx_HAL_GCC",
+			"path": "Makefile"
+		}
+	]
+}
